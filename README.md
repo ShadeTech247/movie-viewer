@@ -101,6 +101,7 @@ API endpoints used (examples):
 - Replace client-side auth with a real backend authentication flow.
 - Add pagination and infinite scrolling for large result sets.
 - Add unit tests for critical JS functions and end-to-end (E2E) tests for flows like login and searching.
+- And more interesting features
 
 ## Contributing
 
