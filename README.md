@@ -1,4 +1,4 @@
-# MovieVerse — Movie Viewer automated
+# MovieVerse — Movie Viewer
 
 MovieVerse is a lightweight, dark-themed web application for discovering movies and TV shows using The Movie Database (TMDB) API. It provides browsing by category (Popular / Top Rated), searching for movies or series, user authentication (client-side using localStorage), and rich movie detail modals including trailers.
 
